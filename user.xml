@@ -1,0 +1,37 @@
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="6" value="" style="shape=process" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="个人信息页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="" style="shape=process" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="180" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="保存失败" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="修改个人信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="返回个人信息页面" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="保存成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="180" width="120" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

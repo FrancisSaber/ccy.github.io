@@ -1,0 +1,25 @@
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3" target="4" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#80C98F;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5A45D;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="1. 发送登录请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="2. 返回登录结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="120" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
